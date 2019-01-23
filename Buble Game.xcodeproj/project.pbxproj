@@ -3,25 +3,43 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 48;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5E21D496209F208900E0FD16 /* wallBubbleGame.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E21D495209F208900E0FD16 /* wallBubbleGame.png */; };
+		5E34CAAB20A0000E00B0CBA8 /* ViewCotrollerResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E34CAAA20A0000E00B0CBA8 /* ViewCotrollerResults.swift */; };
+		5E54A10C209FE18800500D51 /* ViewControllerSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E54A10B209FE18800500D51 /* ViewControllerSettings.swift */; };
 		5E8C4D9F2090DD04007B66B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8C4D9E2090DD04007B66B0 /* AppDelegate.swift */; };
 		5E8C4DA12090DD04007B66B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E8C4DA02090DD04007B66B0 /* ViewController.swift */; };
 		5E8C4DA42090DD04007B66B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E8C4DA22090DD04007B66B0 /* Main.storyboard */; };
 		5E8C4DA62090DD06007B66B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E8C4DA52090DD06007B66B0 /* Assets.xcassets */; };
 		5E8C4DA92090DD06007B66B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E8C4DA72090DD06007B66B0 /* LaunchScreen.storyboard */; };
+		5EB01DF4209FEE60008C355A /* ViewControllerStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB01DF3209FEE60008C355A /* ViewControllerStart.swift */; };
+		5EE506662096E5B600FBBCD0 /* blackBubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE506612096E5B500FBBCD0 /* blackBubble.png */; };
+		5EE506672096E5B600FBBCD0 /* redBubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE506622096E5B600FBBCD0 /* redBubble.png */; };
+		5EE506682096E5B600FBBCD0 /* blueBubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE506632096E5B600FBBCD0 /* blueBubble.png */; };
+		5EE506692096E5B600FBBCD0 /* pinkBubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE506642096E5B600FBBCD0 /* pinkBubble.png */; };
+		5EE5066A2096E5B600FBBCD0 /* greenBubble.png in Resources */ = {isa = PBXBuildFile; fileRef = 5EE506652096E5B600FBBCD0 /* greenBubble.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5E21D495209F208900E0FD16 /* wallBubbleGame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wallBubbleGame.png; sourceTree = "<group>"; };
+		5E34CAAA20A0000E00B0CBA8 /* ViewCotrollerResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewCotrollerResults.swift; sourceTree = "<group>"; };
+		5E54A10B209FE18800500D51 /* ViewControllerSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerSettings.swift; sourceTree = "<group>"; };
 		5E8C4D9B2090DD04007B66B0 /* Buble Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Buble Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E8C4D9E2090DD04007B66B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		5E8C4DA02090DD04007B66B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5E8C4DA02090DD04007B66B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		5E8C4DA32090DD04007B66B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		5E8C4DA52090DD06007B66B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E8C4DA82090DD06007B66B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E8C4DAA2090DD06007B66B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EB01DF3209FEE60008C355A /* ViewControllerStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerStart.swift; sourceTree = "<group>"; };
+		5EE506612096E5B500FBBCD0 /* blackBubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blackBubble.png; sourceTree = "<group>"; };
+		5EE506622096E5B600FBBCD0 /* redBubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = redBubble.png; sourceTree = "<group>"; };
+		5EE506632096E5B600FBBCD0 /* blueBubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blueBubble.png; sourceTree = "<group>"; };
+		5EE506642096E5B600FBBCD0 /* pinkBubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pinkBubble.png; sourceTree = "<group>"; };
+		5EE506652096E5B600FBBCD0 /* greenBubble.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = greenBubble.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,11 +73,20 @@
 			isa = PBXGroup;
 			children = (
 				5E8C4D9E2090DD04007B66B0 /* AppDelegate.swift */,
-				5E8C4DA02090DD04007B66B0 /* ViewController.swift */,
 				5E8C4DA22090DD04007B66B0 /* Main.storyboard */,
+				5EB01DF3209FEE60008C355A /* ViewControllerStart.swift */,
+				5E34CAAA20A0000E00B0CBA8 /* ViewCotrollerResults.swift */,
+				5E54A10B209FE18800500D51 /* ViewControllerSettings.swift */,
+				5E8C4DA02090DD04007B66B0 /* ViewController.swift */,
 				5E8C4DA52090DD06007B66B0 /* Assets.xcassets */,
 				5E8C4DA72090DD06007B66B0 /* LaunchScreen.storyboard */,
 				5E8C4DAA2090DD06007B66B0 /* Info.plist */,
+				5E21D495209F208900E0FD16 /* wallBubbleGame.png */,
+				5EE506612096E5B500FBBCD0 /* blackBubble.png */,
+				5EE506632096E5B600FBBCD0 /* blueBubble.png */,
+				5EE506652096E5B600FBBCD0 /* greenBubble.png */,
+				5EE506642096E5B600FBBCD0 /* pinkBubble.png */,
+				5EE506622096E5B600FBBCD0 /* redBubble.png */,
 			);
 			path = "Buble Game";
 			sourceTree = "<group>";
@@ -96,11 +123,12 @@
 				TargetAttributes = {
 					5E8C4D9A2090DD04007B66B0 = {
 						CreatedOnToolsVersion = 9.3;
+						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 5E8C4D962090DD04007B66B0 /* Build configuration list for PBXProject "Buble Game" */;
-			compatibilityVersion = "Xcode 9.3";
+			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -122,9 +150,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EE506692096E5B600FBBCD0 /* pinkBubble.png in Resources */,
 				5E8C4DA92090DD06007B66B0 /* LaunchScreen.storyboard in Resources */,
+				5EE506672096E5B600FBBCD0 /* redBubble.png in Resources */,
 				5E8C4DA62090DD06007B66B0 /* Assets.xcassets in Resources */,
+				5EE506682096E5B600FBBCD0 /* blueBubble.png in Resources */,
+				5E21D496209F208900E0FD16 /* wallBubbleGame.png in Resources */,
 				5E8C4DA42090DD04007B66B0 /* Main.storyboard in Resources */,
+				5EE506662096E5B600FBBCD0 /* blackBubble.png in Resources */,
+				5EE5066A2096E5B600FBBCD0 /* greenBubble.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +169,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E34CAAB20A0000E00B0CBA8 /* ViewCotrollerResults.swift in Sources */,
 				5E8C4DA12090DD04007B66B0 /* ViewController.swift in Sources */,
+				5EB01DF4209FEE60008C355A /* ViewControllerStart.swift in Sources */,
 				5E8C4D9F2090DD04007B66B0 /* AppDelegate.swift in Sources */,
+				5E54A10C209FE18800500D51 /* ViewControllerSettings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,8 +307,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -282,10 +318,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Buble Game/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Gorge.Buble-Game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
@@ -299,10 +333,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = "Buble Game/Info.plist";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Gorge.Buble-Game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
